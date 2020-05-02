@@ -97,3 +97,8 @@ ZeroDayInitiative CVE-2019-1388: https://www.youtube.com/watch?v=3BQKpPNlTSo
 
 Rapid7 CVE-2019-1388: https://www.rapid7.com/db/vulnerabilities/msft-cve-2019-1388
 
+### Capstone Challenge
+
+Basic Powershell for Pentesters: https://book.hacktricks.xyz/windows/basic-powershell-for-pentesters
+
+Mounting VHD Files: https://medium.com/@klockw3rk/mounting-vhd-file-on-kali-linux-through-remote-share-f2f9542c1f25
