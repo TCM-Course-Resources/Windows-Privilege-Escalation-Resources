@@ -102,3 +102,5 @@ Rapid7 CVE-2019-1388: https://www.rapid7.com/db/vulnerabilities/msft-cve-2019-13
 Basic Powershell for Pentesters: https://book.hacktricks.xyz/windows/basic-powershell-for-pentesters
 
 Mounting VHD Files: https://medium.com/@klockw3rk/mounting-vhd-file-on-kali-linux-through-remote-share-f2f9542c1f25
+
+Capturing MSSQL Creds: https://medium.com/@markmotig/how-to-capture-mssql-credentials-with-xp-dirtree-smbserver-py-5c29d852f478
