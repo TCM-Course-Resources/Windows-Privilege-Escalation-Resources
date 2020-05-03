@@ -1,4 +1,4 @@
-# Windows-Priviledge-Escalation-Resources
+# Windows-Privilege-Escalation-Resources
 Compilation of Resources from TCM's Windows Priv Esc Udemy Course
 
 ### General Links 
